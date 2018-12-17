@@ -7,7 +7,7 @@ The program enables for users to specify a large number of rule sets at run time
 
 ![test3.png](https://github.com/connormcmonigle/chaos-games/blob/master/test3.png)
 ![test9.png](https://github.com/connormcmonigle/chaos-games/blob/master/test9.png)
-![test8.png](https://github.com/connormcmonigle/chaos-games/blob/master/test9.png)
+![test8.png](https://github.com/connormcmonigle/chaos-games/blob/master/test8.png)
 
 
 
